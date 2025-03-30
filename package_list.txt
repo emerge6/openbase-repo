@@ -3,3 +3,4 @@ rmv
 initfetch
 initfetch
 initfetch
+initfetch
