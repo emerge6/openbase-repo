@@ -1,5 +1,4 @@
 fastfetch
 rmv
 initfetch
-
 baseutils
