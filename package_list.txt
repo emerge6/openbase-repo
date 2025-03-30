@@ -1,3 +1,4 @@
 fastfetch
 rmv
 initfetch
+initfetch
