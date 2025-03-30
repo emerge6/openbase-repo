@@ -4,3 +4,4 @@ initfetch
 initfetch
 initfetch
 initfetch
+initfetch
